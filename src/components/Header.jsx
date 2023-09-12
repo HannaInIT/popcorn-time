@@ -1,9 +1,5 @@
 function Header(){
-    return (
-        <section>
-        <h1>this is the Header component</h1>
-        </section>
-    )
+    return<h1>this is Header</h1>
 }
 
 export default Header;
